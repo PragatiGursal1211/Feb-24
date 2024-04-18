@@ -10,6 +10,15 @@ public class Git {
 		System.out.println("Testcase 3");
 		System.out.println("testcase 4");
 		System.out.println("new branch");
+
+	
+	int i=0;
+	System.out.println("variable i value");
+	System.out.println("Tester A");
+	
+	
+	
+	
 	}
 
 }
